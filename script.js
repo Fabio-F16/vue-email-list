@@ -15,7 +15,6 @@ const app = new Vue({
                 this.randomEmails.push(result);
 
             })
-
         }
     }
 })
